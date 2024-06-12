@@ -1,6 +1,6 @@
 .button {
-    text-decoration: none;
-    color: rgb(255, 233, 233);
+    text-decoration: crimson;
+    color: rgb(255, 255, 255);
     background-color: rgb(0, 68, 255);
     padding: 10px;
     border-radius: 20px;
